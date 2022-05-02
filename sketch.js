@@ -11,6 +11,7 @@ let rangeAnim;
 let playButton, settingButton, titleButton;
 let font;
 
+// testing
 //title screen, death screen; block pickups; inventory; rounds; expanding border; make zombies spawn smartly (no in your enclosed space or something, use dykstra to determine ?),
 
 function preload(){
